@@ -1,4 +1,7 @@
-<h2>Linners</h2>
+
+![LOGO-AMARILLO-LINNERS](https://github.com/user-attachments/assets/93767bea-29b3-4c0a-8d8a-e6cb7bbc2ebd)
+
+<h2></h2>
 <p align="justify">
   Linners es una aplicación que te informa de las diferentes líneas de autobuses que pasan por la parada en la que estás ubicado, 
   indicándote el origen, destino, la empresa que lleva el autobús e incluso el coste del viaje.
