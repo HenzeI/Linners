@@ -1,5 +1,5 @@
 
-![LOGO-AMARILLO-LINNERS](https://github.com/user-attachments/assets/93767bea-29b3-4c0a-8d8a-e6cb7bbc2ebd)
+<img src="https://github.com/user-attachments/assets/93767bea-29b3-4c0a-8d8a-e6cb7bbc2ebd"
 
 <h2></h2>
 <p align="justify">
