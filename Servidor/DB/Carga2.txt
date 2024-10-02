@@ -1,0 +1,47 @@
+DIRECCION, LOCALIDAD, PROVINCIA, LATITUD, LONGITUD, CP)
+
+call INSERTAR_PARADA('Plaza de Toros', 'Castro-Urdiales', 'Cantabria', '43.388794', '-3.229961', 39700);
+
+call INSERTAR_PARADA('Silvestre Ochoa 19 (1697)', 'Castro-Urdiales', 'Cantabria', '43.385915', '-3.226538', 39700);
+
+call INSERTAR_PARADA('Silvestre Ochoa 18', 'Castro-Urdiales', 'Cantabria', '43.384563', '-3.224698', 39700);
+
+call INSERTAR_PARADA('Rda. San Francisco', 'Castro-Urdiales', 'Cantabria', '43.383756', '-3.221448', 39700);
+
+call INSERTAR_PARADA('Plaza Mercado', 'Castro-Urdiales', 'Cantabria', '43.383233', '-3.220895', 39700);
+
+call INSERTAR_PARADA('Voluntariado parque', 'Castro-Urdiales', 'Cantabria', '43.381825', '-3.226273', 39700);
+
+call INSERTAR_PARADA('Los Caserios 15', 'Castro-Urdiales', 'Cantabria', '43.380582', '-3.226137', 39700);
+
+call INSERTAR_PARADA('Col. Santa Catalina', 'Castro-Urdiales', 'Cantabria', '43.378633', '-3.221194', 39700);
+
+call INSERTAR_PARADA('La Ronda 22', 'Castro-Urdiales', 'Cantabria', '43.381665', '-3.220347', 39700);
+
+call INSERTAR_PARADA('La Barrera-La Radio', 'Castro-Urdiales', 'Cantabria', '43.380406', '-3.219508', 39700);
+
+call INSERTAR_PARADA('La Barrera/Floristeria', 'Castro-Urdiales', 'Cantabria', '43.380011', '-3.218207', 39700);
+
+call INSERTAR_PARADA('Calle Bilbao', 'Castro-Urdiales', 'Cantabria', '43.380624', '-3.217944', 39700);
+
+call INSERTAR_PARADA('Ies Ataulfo Argenta','Castro-Urdiales', 'Cantabria', '43.379459', '-3.217156', 39700);
+
+call INSERTAR_PARADA('Palacio Ocharan', 'Castro-Urdiales', 'Cantabria', '43.376210', '-3.215742', 39700);
+
+call INSERTAR_PARADA('Menéndez Pelayo 40','Castro-Urdiales', 'Cantabria', '43.373753', '-3.214786', 39700);
+
+call INSERTAR_PARADA('Menéndez Pelayo 37','Castro-Urdiales', 'Cantabria', '43.373650', '-3.214632', 39700);
+
+call INSERTAR_PARADA('Menéndez Pelayo 47','Castro-Urdiales', 'Cantabria', '43.371287', '-3.214473', 39700);
+
+call INSERTAR_PARADA('Menéndez Pelayo 62','Castro-Urdiales', 'Cantabria', '43.370523', '-3.214811', 39700);
+
+call INSERTAR_PARADA('Rda. Velamayor','Castro-Urdiales', 'Cantabria', '43.367717', '-3.216674', 39700);
+
+call INSERTAR_PARADA('La Sirena','Castro-Urdiales', 'Cantabria', '43.373155', '-3.209066', 39700);
+
+call INSERTAR_PARADA('Juzgados','Castro-Urdiales', 'Cantabria', '43.371663', '-3.204058', 39700);
+
+call INSERTAR_PARADA('El Hoyo','Castro-Urdiales', 'Cantabria', '43.390194', '-3.231004', 39700);
+
+
